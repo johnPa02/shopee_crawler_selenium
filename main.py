@@ -1,16 +1,21 @@
-# This is a sample Python script.
+import argparse
+from crawlers import ProductCrawler, save_to_file
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+CATEGORY_URL = "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567?page="
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def main(args):
+    if args.product:
+        product_crawler = ProductCrawler()
+        product_crawler.find_product_urls(CATEGORY_URL)
+        save_to_file(product_crawler.product_urls, "data/product_urls.json")
+        print(f"Saved {len(product_crawler.product_urls)} product urls to product_urls.json")
+    elif args.comment:
+        pass
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--product", action="store_true")
+    args = parser.parse_args()
+    main(args)
