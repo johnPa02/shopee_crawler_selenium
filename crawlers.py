@@ -1,25 +1,38 @@
 import json
 import os
 import time
+
+import numpy as np
 import pyautogui
 import undetected_chromedriver as uc
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from dotenv import load_dotenv
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.support.wait import WebDriverWait
+import pandas as pd
 
 load_dotenv()
 
-MAX_WAIT_TIME = 10
+MAX_WAIT_TIME = 20
 
 
 def save_to_file(data, filename):
-    if type(data) == list:
+    if filename.endswith(".json"):
         data = list(set(data))
         with open(filename, 'w') as f:
             json.dump(data, f, indent=4)
+    elif filename.endswith(".csv"):
+        data = pd.DataFrame(data)
+        with open(filename, 'w') as f:
+            data.to_csv(f, index=False)
+
+
+def read_from_file(filename):
+    with open(filename, 'r') as f:
+        data = json.load(f)
+    return data
 
 
 class BaseCrawler:
@@ -34,9 +47,13 @@ class BaseCrawler:
         options = Options()
         options.headless = self.headless
         # options.add_argument("proxy-server=116.106.105.150:1080")
-        options.add_argument(r"--user-data-dir=C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Profile 2")
+        options.add_argument(r"--user-data-dir=C:\Users\Windows\AppData\Local\Google\Chrome\User Data\Profile 3")
         self.driver = uc.Chrome(options=options)
         self.driver.set_page_load_timeout(MAX_WAIT_TIME)
+
+    def restart_driver(self):
+        self.driver.quit()
+        self.init_driver()
 
     def load_page(self, url):
         self.driver.get(url)
@@ -62,6 +79,7 @@ class ProductCrawler(BaseCrawler):
     def __init__(self, headless=False):
         super().__init__(headless)
         self.product_urls = []
+        self.product_details = []
 
     # def login(self):
     #     self.load_page("https://shopee.vn/buyer/login")
@@ -120,8 +138,9 @@ class ProductCrawler(BaseCrawler):
         pyautogui.hotkey('ctrl', 't')
         time.sleep(1)
         pyautogui.write(url)
+        time.sleep(np.random.uniform(1, 3))
         pyautogui.press('enter')
-        time.sleep(5)
+        time.sleep(np.random.uniform(5, 8))
         self.driver.switch_to.window(self.driver.window_handles[-1])
 
     def find_product_urls(self, category_url):
@@ -149,3 +168,45 @@ class ProductCrawler(BaseCrawler):
                         break
                 except NoSuchElementException:
                     break
+
+    def get_product_details(self, product_urls_file):
+        """
+        Get product details from a list of product urls
+        including category, rating, number of ratings, number of sold, number of views, name, price
+        :param product_urls_file:
+        :return:
+        """
+        self.load_page("chrome://newtab")
+        product_urls = read_from_file(product_urls_file)
+        for product_url in product_urls:
+            retries = 0
+            while retries < 3:
+                self.open_url_in_new_tab(product_url)
+                try:
+                    price = WebDriverWait(self.driver, MAX_WAIT_TIME).until(
+                        EC.presence_of_element_located(
+                            (By.XPATH, '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[3]/div[2]/div/section/div/div[2]/div[1]')))
+                    rating = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[1]/div[1]').text
+                    num_ratings = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]').text
+                    num_sold = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/div/div[1]').text
+                    name = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[1]/span').text
+                    category = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/div[1]/a[2]').text
+
+                    self.product_details.append({
+                        "category": category,
+                        "rating": rating,
+                        "num_ratings": num_ratings,
+                        "num_sold": num_sold,
+                        "name": name,
+                        "price": price
+                    })
+                    print(f"Scraped {name}")
+                    time.sleep(np.random.uniform(2, 5))
+                    break
+                except (TimeoutException, NoSuchElementException):
+                    retries += 1
+                    print(f"Failed to scrape {product_url}")
+                    self.restart_driver()
+
+        save_to_file(self.product_details, "data/product_details.csv")
+

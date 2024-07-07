@@ -7,9 +7,10 @@ CATEGORY_URL = "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567?page="
 def main(args):
     if args.product:
         product_crawler = ProductCrawler()
-        product_crawler.find_product_urls(CATEGORY_URL)
-        save_to_file(product_crawler.product_urls, "data/product_urls.json")
-        print(f"Saved {len(product_crawler.product_urls)} product urls to product_urls.json")
+        # product_crawler.find_product_urls(CATEGORY_URL)
+        # save_to_file(product_crawler.product_urls, "data/product_urls.json")
+        # print(f"Saved {len(product_crawler.product_urls)} product urls to product_urls.json")
+        product_crawler.get_product_details("data/product_urls.json")
     elif args.comment:
         pass
 
