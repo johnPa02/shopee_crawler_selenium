@@ -1,10 +1,12 @@
 import argparse
 from crawlers import ProductCrawler, save_to_file
+from config.logging_config import setup_logging
 
 CATEGORY_URL = "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.11035567?page="
 
 
 def main(args):
+    setup_logging()
     if args.product:
         product_crawler = ProductCrawler()
         # product_crawler.find_product_urls(CATEGORY_URL)

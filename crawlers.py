@@ -205,11 +205,11 @@ class ProductCrawler(BaseCrawler):
                     break
                 except TimeoutException as e:
                     retries += 1
-                    print(f"Timeout exception when scraping {product_url}: {str(e)} (Retry {retries}/3)")
+                    print(f"TimeoutException when scraping {product_url}: {str(e)} (Retry {retries}/3)")
                     self.restart_driver()
                 except NoSuchElementException as e:
                     retries += 1
-                    print(f"No such element exception when scraping {product_url}: {str(e)} (Retry {retries}/3)")
+                    print(f"NoSuchElementException when scraping {product_url}: {str(e)} (Retry {retries}/3)")
                     self.restart_driver()
 
         save_to_file(self.product_details, "data/product_details.csv")
