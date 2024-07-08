@@ -1,6 +1,7 @@
 import logging
 import os
 
+
 def setup_logging():
     # Tạo thư mục logs nếu chưa tồn tại
     if not os.path.exists('logs'):

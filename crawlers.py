@@ -1,7 +1,6 @@
 import json
 import os
 import time
-
 import numpy as np
 import pyautogui
 import undetected_chromedriver as uc
@@ -12,6 +11,7 @@ from dotenv import load_dotenv
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.support.wait import WebDriverWait
 import pandas as pd
+import logging
 
 load_dotenv()
 
@@ -114,10 +114,10 @@ class ProductCrawler(BaseCrawler):
                 self.driver.add_cookie(cookie)
             self.driver.refresh()
             time.sleep(5)
-            print("Logged in with cookies successfully.")
+            logging.info("Logged in with cookies successfully.")
             return True
         except Exception as e:
-            print(f"Login with cookies failed: {e}")
+            logging.error(f"Login with cookies failed: {e}")
             self.driver.quit()
             return False
 
@@ -200,12 +200,16 @@ class ProductCrawler(BaseCrawler):
                         "name": name,
                         "price": price
                     })
-                    print(f"Scraped {name}")
+                    logging.info(f"Scraped {name} successfully")
                     time.sleep(np.random.uniform(2, 5))
                     break
-                except (TimeoutException, NoSuchElementException):
+                except TimeoutException as e:
                     retries += 1
-                    print(f"Failed to scrape {product_url}")
+                    print(f"Timeout exception when scraping {product_url}: {str(e)} (Retry {retries}/3)")
+                    self.restart_driver()
+                except NoSuchElementException as e:
+                    retries += 1
+                    print(f"No such element exception when scraping {product_url}: {str(e)} (Retry {retries}/3)")
                     self.restart_driver()
 
         save_to_file(self.product_details, "data/product_details.csv")
