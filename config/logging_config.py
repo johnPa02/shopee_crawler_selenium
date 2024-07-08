@@ -1,6 +1,6 @@
 import logging
 import os
-
+from selenium.webdriver.remote.remote_connection import LOGGER as selenium_logger
 
 def setup_logging():
     # Tạo thư mục logs nếu chưa tồn tại
@@ -10,7 +10,7 @@ def setup_logging():
     log_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
     log_file = 'logs/app.log'
-    file_handler = logging.FileHandler(log_file)
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
     file_handler.setFormatter(log_formatter)
 
     console_handler = logging.StreamHandler()
@@ -20,3 +20,4 @@ def setup_logging():
         level=logging.INFO,
         handlers=[file_handler, console_handler]
     )
+    selenium_logger.setLevel(logging.WARNING)
