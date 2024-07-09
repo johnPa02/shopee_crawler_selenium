@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from dotenv import load_dotenv
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException
 from selenium.webdriver.support.wait import WebDriverWait
 import pandas as pd
 import logging
@@ -185,7 +185,7 @@ class ProductCrawler(BaseCrawler):
                 try:
                     price = WebDriverWait(self.driver, MAX_WAIT_TIME).until(
                         EC.presence_of_element_located(
-                            (By.XPATH, '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[3]/div[2]/div/section/div/div[2]/div[1]')))
+                            (By.XPATH, '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[3]/div/div/section/div/div[2]/div[1]'))).text
                     rating = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[1]/div[1]').text
                     num_ratings = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]').text
                     num_sold = self.driver.find_element("xpath", '//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/div/div[1]').text
@@ -203,13 +203,9 @@ class ProductCrawler(BaseCrawler):
                     logging.info(f"Scraped {name} successfully")
                     time.sleep(np.random.uniform(2, 5))
                     break
-                except TimeoutException as e:
+                except (TimeoutException, NoSuchElementException, StaleElementReferenceException) as e:
                     retries += 1
-                    print(f"TimeoutException when scraping {product_url}: {str(e)} (Retry {retries}/3)")
-                    self.restart_driver()
-                except NoSuchElementException as e:
-                    retries += 1
-                    print(f"NoSuchElementException when scraping {product_url}: {str(e)} (Retry {retries}/3)")
+                    logging.error(f"Exception when scraping {product_url}: {str(e)} (Retry {retries}/3)")
                     self.restart_driver()
 
         save_to_file(self.product_details, "data/product_details.csv")
