@@ -1,0 +1,1722 @@
+2024-07-09 13:43:03,038 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 13:43:17,024 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80 successfully
+2024-07-09 13:43:32,854 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA successfully
+2024-07-09 13:44:02,132 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 13:44:16,498 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80 successfully
+2024-07-09 13:44:33,320 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA successfully
+2024-07-09 13:44:48,059 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp khuy pha cúc trẻ trung đùi ngắn premium xịn [Q46] successfully
+2024-07-09 13:45:05,453 - root - INFO - Scraped Quần Đùi Nam Nữ Thun Cotton AmericanStyle Đập Tan Nóng Bức Mặc Nhà, Mặc Làm Quần Ngủ Có Bigsize successfully
+2024-07-09 13:45:22,348 - root - INFO - Scraped Áo sơ mi nam ngắn tay ,chất vải lụa Thái cotton mềm mịn thoáng mát kiểu dáng trung niên TN LỤA MVP successfully
+2024-07-09 13:45:37,436 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Phong Cách Hàn Quôc Mặc Thoáng Mát successfully
+2024-07-09 13:45:52,302 - root - INFO - Scraped Quần Short Nilen Nam ( Hàng Xịn, Lên Form Cực Đẹp ) Store NA successfully
+2024-07-09 13:46:08,735 - root - INFO - Scraped Quần Short đùi Bò Jean Nam Avocado Trắng Đen Retro Wash Co Giãn form TRÊN GỐI successfully
+2024-07-09 13:46:24,028 - root - INFO - Scraped [TAS002] QUẦN SHORT TÂY ÂU NAM HÀNG ĐẸP CO GIÃN NHẸ - KHÔNG NHĂN - KHÔNG XÙ - KHÔNG PHAI MÀU successfully
+2024-07-09 13:46:55,995 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-l%C3%B3t-nam-th%E1%BB%83-thao-cao-c%E1%BA%A5p-ch%E1%BA%A5t-thun-l%E1%BA%A1nh-%C4%91%E1%BA%B9p-qu%E1%BA%A7n-s%E1%BB%8Bp-nam-%C4%91%C3%B9i-m%E1%BB%81m-m%E1%BA%A1i-co-d%C3%A3n-i.132131867.18681403459?sp_atk=1e1c6d2f-ad43-4541-81e9-aec3288a9077&xptdk=1e1c6d2f-ad43-4541-81e9-aec3288a9077: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:47:10,318 - root - INFO - Scraped Quần lót nam thể thao cao cấp chất thun lạnh đẹp quần sịp nam đùi mềm mại co dãn successfully
+2024-07-09 13:47:26,543 - root - INFO - Scraped Quần Short Unisex nam nữ trơn quần đùi nam chất vải xốp tổ ong mát mẻ thoải mái successfully
+2024-07-09 13:47:43,200 - root - INFO - Scraped Quần Short Nam 6 Màu Trẻ Trung Chất Liệu Kaki Mềm Mại, Quần Đùi Nam Kiểu Dáng Basic Phong Cách Hàn Quốc VICERO successfully
+2024-07-09 13:47:58,719 - root - INFO - Scraped Áo Polo Phối cổ SPION Local Brand polo unisex nam nữ oversize - KNC 192 successfully
+2024-07-09 13:48:13,590 - root - INFO - Scraped Áo Thun Soccer Phối Local Brand By UniSpace Our Ground Áo Phông Unisex Pao_STORE successfully
+2024-07-09 13:48:31,245 - root - INFO - Scraped ⚡️ Giá Sốc ⚡️Thắt lưng nam da cao cấp khóa kim loại tự động không gỉ - Cam kết 1 đổi 1 bảo hành 12 tháng successfully
+2024-07-09 13:48:48,265 - root - INFO - Scraped Quần Short unisex nam nữ chất cotton cao cấp, phong cách thể thao, mặc thoáng mát, co dãn 4 chiều, quần đùi nam nữ, basi successfully
+2024-07-09 13:49:06,331 - root - INFO - Scraped Thắt Lưng Da Nam🔥Giá Sốc🔥Khóa Tự Động Cao Cấp Dây Nịt Nam Mặt Xoay Chính Hãng , Phong Cách Hàn Quốc successfully
+2024-07-09 13:49:22,923 - root - INFO - Scraped Áo thun nam nữ tay lỡ Angel Devil, áo phông cotton from rộng freesize unisex AD-Trend successfully
+2024-07-09 13:49:39,208 - root - INFO - Scraped Áo thun nam nữ unisex tay lỡ A.R.0.1, áo phông cotton form rộng oversize streetwear Trend 2022 successfully
+2024-07-09 13:50:13,751 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%A2y-N%E1%BB%8Bt-Da-B%C3%B2-Nguy%C3%AAn-Mi%E1%BA%BFng-Vicezo-Cao-C%E1%BA%A5p-B%E1%BA%A3o-H%C3%A0nh-L%E1%BB%97i-1-%C4%90%E1%BB%95i-1-Th%E1%BA%AFt-L%C6%B0ng-Nam-Da-B%C3%B2-Nguy%C3%AAn-T%E1%BA%A5m-i.475419989.14709034052?sp_atk=cfa97622-3aaa-401f-90f8-9791687ffff1&xptdk=cfa97622-3aaa-401f-90f8-9791687ffff1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:50:45,839 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%A2y-N%E1%BB%8Bt-Da-B%C3%B2-Nguy%C3%AAn-Mi%E1%BA%BFng-Vicezo-Cao-C%E1%BA%A5p-B%E1%BA%A3o-H%C3%A0nh-L%E1%BB%97i-1-%C4%90%E1%BB%95i-1-Th%E1%BA%AFt-L%C6%B0ng-Nam-Da-B%C3%B2-Nguy%C3%AAn-T%E1%BA%A5m-i.475419989.14709034052?sp_atk=cfa97622-3aaa-401f-90f8-9791687ffff1&xptdk=cfa97622-3aaa-401f-90f8-9791687ffff1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 13:51:16,829 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%A2y-N%E1%BB%8Bt-Da-B%C3%B2-Nguy%C3%AAn-Mi%E1%BA%BFng-Vicezo-Cao-C%E1%BA%A5p-B%E1%BA%A3o-H%C3%A0nh-L%E1%BB%97i-1-%C4%90%E1%BB%95i-1-Th%E1%BA%AFt-L%C6%B0ng-Nam-Da-B%C3%B2-Nguy%C3%AAn-T%E1%BA%A5m-i.475419989.14709034052?sp_atk=cfa97622-3aaa-401f-90f8-9791687ffff1&xptdk=cfa97622-3aaa-401f-90f8-9791687ffff1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 13:51:31,703 - root - INFO - Scraped Áo thun nam, áo phông nam tay ngắn cổ tròn chất cotton dày dặn thoáng mát ATN010 - An Cường Fashion successfully
+2024-07-09 13:51:49,175 - root - INFO - Scraped Quần Short Unisex Basic thể thao phong cách Hàn Quốc nam nữ mặc cực chất successfully
+2024-07-09 13:52:05,088 - root - INFO - Scraped Áo sơ mi nam Basic chất kaki cao cấp cực đẹp successfully
+2024-07-09 13:52:21,078 - root - INFO - Scraped Quần short nam ROWAY, vải kaki co giãn nhẹ, form regular | short successfully
+2024-07-09 13:52:34,341 - root - INFO - Scraped Quần short kaki LocalBrand Insomnia "SIGNATURE SHORT" #5 color successfully
+2024-07-09 13:52:51,068 - root - INFO - Scraped Thắt lưng nam chữ lv kẻ caro, dây lưng nam Caro đủ màu, đầu khóa chữ nhỏ A1CLV1 successfully
+2024-07-09 13:53:08,117 - root - INFO - Scraped Quần short đùi nam chất mango mịn, mát cao cấp LADOS-4099 có dây rút, túi tiện lợi, dạo phố, tập gym, chạy bộ successfully
+2024-07-09 13:53:26,261 - root - INFO - Scraped Thắt Lưng Bằng Vải canvas Kiểu Dáng Đơn Giản Phong Cách Cao Bồi Cho Nam successfully
+2024-07-09 13:54:02,471 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-GUZADO-V%E1%BA%A3i-Gi%C3%B3-Th%E1%BB%83-Thao-C%E1%BA%A1p-Chun-M%E1%BB%81m-M%E1%BA%A1i-Co-Gi%C3%A3n-V%E1%BA%ADn-%C4%90%E1%BB%99ng-Tho%E1%BA%A3i-M%C3%A1i-M%C3%A0u-Basic-D%E1%BB%85-Ph%E1%BB%91i-%C4%90%E1%BB%93-GSR01-i.201774917.8929441063?sp_atk=64e57d6a-684a-4ac7-a9c0-977da7363ab4&xptdk=64e57d6a-684a-4ac7-a9c0-977da7363ab4: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:54:36,410 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-GUZADO-V%E1%BA%A3i-Gi%C3%B3-Th%E1%BB%83-Thao-C%E1%BA%A1p-Chun-M%E1%BB%81m-M%E1%BA%A1i-Co-Gi%C3%A3n-V%E1%BA%ADn-%C4%90%E1%BB%99ng-Tho%E1%BA%A3i-M%C3%A1i-M%C3%A0u-Basic-D%E1%BB%85-Ph%E1%BB%91i-%C4%90%E1%BB%93-GSR01-i.201774917.8929441063?sp_atk=64e57d6a-684a-4ac7-a9c0-977da7363ab4&xptdk=64e57d6a-684a-4ac7-a9c0-977da7363ab4: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 13:54:54,342 - root - INFO - Scraped Quần Đùi Nam GUZADO Vải Gió Thể Thao Cạp Chun Mềm Mại,Co Giãn Vận Động Thoải Mái Màu Basic Dễ Phối Đồ GSR01 successfully
+2024-07-09 13:55:28,619 - root - ERROR - Exception when scraping https://shopee.vn/Th%E1%BA%AFt-l%C6%B0ng-nam-da-cao-c%E1%BA%A5p-d%C3%A2y-l%C6%B0ng-nam-m%E1%BA%B7t-kh%C3%B3a-t%E1%BB%B1-%C4%91%E1%BB%99ng-sang-tr%E1%BB%8Dng-n%E1%BB%8Bt-da-m%C3%A0u-%C4%91en-TL%C4%9001-i.448364971.24010484186?sp_atk=099ec3a7-b9d3-4f62-9feb-bf9675cbceb6&xptdk=099ec3a7-b9d3-4f62-9feb-bf9675cbceb6: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:56:00,844 - root - ERROR - Exception when scraping https://shopee.vn/Th%E1%BA%AFt-l%C6%B0ng-nam-da-cao-c%E1%BA%A5p-d%C3%A2y-l%C6%B0ng-nam-m%E1%BA%B7t-kh%C3%B3a-t%E1%BB%B1-%C4%91%E1%BB%99ng-sang-tr%E1%BB%8Dng-n%E1%BB%8Bt-da-m%C3%A0u-%C4%91en-TL%C4%9001-i.448364971.24010484186?sp_atk=099ec3a7-b9d3-4f62-9feb-bf9675cbceb6&xptdk=099ec3a7-b9d3-4f62-9feb-bf9675cbceb6: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 13:56:19,191 - root - INFO - Scraped Thắt lưng nam da cao cấp, dây lưng nam mặt khóa tự động sang trọng, nịt da màu đen TLĐ01 successfully
+2024-07-09 13:56:38,645 - root - INFO - Scraped Quần Lót Nam [ COMBO 5C] quần lót boxer nam LA thun lạnh thoáng khí co giãn 4 chiều set 5 màu successfully
+2024-07-09 13:56:59,373 - root - INFO - Scraped Áo Nắng Nam Thông Hơi,Cạp To, Túi Có Khoá Kéo An Toàn successfully
+2024-07-09 13:57:20,004 - root - ERROR - Exception when scraping https://shopee.vn/Short-Short-Nam-Tr%C6%A1n-Ch%E1%BA%A5t-X%E1%BB%91p-T%E1%BB%95-Ong-Co-Gi%C3%A3n-M%C3%A1t-M%E1%BA%BB-Tho%E1%BA%A3i-M%C3%A1i-ABANDON-H20-i.327863047.20973052428?sp_atk=1bc1308f-25d1-4df2-af89-588d1f105daf&xptdk=1bc1308f-25d1-4df2-af89-588d1f105daf: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:57:39,985 - root - ERROR - Exception when scraping https://shopee.vn/Short-Short-Nam-Tr%C6%A1n-Ch%E1%BA%A5t-X%E1%BB%91p-T%E1%BB%95-Ong-Co-Gi%C3%A3n-M%C3%A1t-M%E1%BA%BB-Tho%E1%BA%A3i-M%C3%A1i-ABANDON-H20-i.327863047.20973052428?sp_atk=1bc1308f-25d1-4df2-af89-588d1f105daf&xptdk=1bc1308f-25d1-4df2-af89-588d1f105daf: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x00376C7F]
+	(No symbol) [0x003788F8]
+	(No symbol) [0x00378970]
+	(No symbol) [0x003ADD91]
+	(No symbol) [0x003D399C]
+	(No symbol) [0x003A8C15]
+	(No symbol) [0x003D3C34]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 13:57:56,941 - root - ERROR - Exception when scraping https://shopee.vn/Short-Short-Nam-Tr%C6%A1n-Ch%E1%BA%A5t-X%E1%BB%91p-T%E1%BB%95-Ong-Co-Gi%C3%A3n-M%C3%A1t-M%E1%BA%BB-Tho%E1%BA%A3i-M%C3%A1i-ABANDON-H20-i.327863047.20973052428?sp_atk=1bc1308f-25d1-4df2-af89-588d1f105daf&xptdk=1bc1308f-25d1-4df2-af89-588d1f105daf: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x00376C7F]
+	(No symbol) [0x003788F8]
+	(No symbol) [0x00378970]
+	(No symbol) [0x003ADD91]
+	(No symbol) [0x003D399C]
+	(No symbol) [0x003A8C15]
+	(No symbol) [0x003D3C34]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 13:58:29,997 - root - ERROR - Exception when scraping https://shopee.vn/-H%C3%80NG-HI%E1%BB%86U-Th%E1%BA%AFt-L%C6%B0ng-Da-Nam-Kh%C3%B3a-T%E1%BB%B1-%C4%90%E1%BB%99ng-Cao-C%E1%BA%A5p-D%C3%A2y-N%E1%BB%8Bt-Nam-M%E1%BA%B7t-Xoay-Ch%C3%ADnh-H%C3%A3ng-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-i.195747149.15308662977?sp_atk=0921a199-61eb-49d4-9bf4-bb2416db4013&xptdk=0921a199-61eb-49d4-9bf4-bb2416db4013: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 13:59:00,497 - root - ERROR - Exception when scraping https://shopee.vn/-H%C3%80NG-HI%E1%BB%86U-Th%E1%BA%AFt-L%C6%B0ng-Da-Nam-Kh%C3%B3a-T%E1%BB%B1-%C4%90%E1%BB%99ng-Cao-C%E1%BA%A5p-D%C3%A2y-N%E1%BB%8Bt-Nam-M%E1%BA%B7t-Xoay-Ch%C3%ADnh-H%C3%A3ng-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-i.195747149.15308662977?sp_atk=0921a199-61eb-49d4-9bf4-bb2416db4013&xptdk=0921a199-61eb-49d4-9bf4-bb2416db4013: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 13:59:34,885 - root - ERROR - Exception when scraping https://shopee.vn/-H%C3%80NG-HI%E1%BB%86U-Th%E1%BA%AFt-L%C6%B0ng-Da-Nam-Kh%C3%B3a-T%E1%BB%B1-%C4%90%E1%BB%99ng-Cao-C%E1%BA%A5p-D%C3%A2y-N%E1%BB%8Bt-Nam-M%E1%BA%B7t-Xoay-Ch%C3%ADnh-H%C3%A3ng-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-i.195747149.15308662977?sp_atk=0921a199-61eb-49d4-9bf4-bb2416db4013&xptdk=0921a199-61eb-49d4-9bf4-bb2416db4013: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 13:59:59,181 - root - INFO - Scraped Quần Dài Form Rộng NOCTURNAL Track Pants Unisex Nam Nữ Local Brand Đứng Form Co Giãn Tốt successfully
+2024-07-09 14:00:30,134 - root - INFO - Scraped Quần Short Nam Kaki Đẹp Đen Trắng Cao Cấp Dáng Hàn Quốc VESCA H3 successfully
+2024-07-09 14:01:02,878 - root - INFO - Scraped Áo thun nam giữ nhiệt size 35 - 95kg 💎𝑭𝑹𝑬𝑬 𝑺𝑯𝑰𝑷💎 thể thao dài tay mềm mại trẻ trung năng động successfully
+2024-07-09 14:01:34,446 - root - INFO - Scraped Áo thun nam POLO trơn vải cá sấu cotton cao cấp ngắn tay cực sang trọng successfully
+2024-07-09 14:02:04,985 - root - INFO - Scraped 12BOXER Quần dài nam xuân hè, quần lụa băng mỏng nam, quần tây nam, quần thể thao ống rộng đơn giản kiểu Hàn Quốc, thoáng mát successfully
+2024-07-09 14:02:33,072 - root - INFO - Scraped Quần Short Tổng Hợp Form Unisex Nam Nữ - Quần Ngắn Nỉ Chân Cua Đầy Đủ Tem Tag successfully
+2024-07-09 14:03:01,436 - root - INFO - Scraped QUẦN SHORT KAKI NAM CO GIÃN CAO CẤP BẢNG MÀU PASTEL CỰC HOT successfully
+2024-07-09 14:03:29,650 - root - INFO - Scraped Áo sơ mi nam kiểu dáng basic TOPMEN khoác ngoài chất vải kaki cao cấp trẻ trung năng động phù hợp cả mặc đi làm, đi chơi successfully
+2024-07-09 14:03:57,302 - root - INFO - Scraped Quần Tây Nam - Quần Âu Nam cao cấp Trendyman Công Sở Dáng Ôm Chuẩn Vải lụa Không Nhăn Không Xù cao cấp successfully
+2024-07-09 14:04:27,344 - root - INFO - Scraped Áo thun tay lỡ form rộng unisex PANDA, Áo phông nam nữ form rộng ATL05 successfully
+2024-07-09 14:04:59,066 - root - INFO - Scraped Quần đùi nam vải gió in logo thể thao vận động chạy bộ đi chơi đều đẹp successfully
+2024-07-09 14:05:28,005 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Mặc Thoáng Mát Phong Cách Hàn Quốc Nam Nữ Mặc Cực Chất successfully
+2024-07-09 14:05:57,557 - root - INFO - Scraped Thắt Lưng Nam Da Bò Thật VICENZO Khóa Tự Động Hợp Kim Chống Rỉ, Dây Nịt Nam Da Bò Thật Lỗi 1 Đổi 1 successfully
+2024-07-09 14:06:24,428 - root - INFO - Scraped Quần short nam ngắn chất liệu kaki co giãn phong cách trẻ trung, cá tính 5 màu dễ phối đồ successfully
+2024-07-09 14:06:55,745 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%91%C3%B9i-nam-Guzado-m%E1%BA%ABu-short-v%E1%BA%A3i-thun-l%E1%BA%A1nh-SI%C3%8AU-CO-GI%C3%83N-tho%C3%A1ng-m%C3%A1t-v%E1%BA%ADn-%C4%91%E1%BB%99ng-tho%E1%BA%A3i-m%C3%A1i-GSR02-i.201774917.22758143070?sp_atk=65ab44d6-c6ed-4ff0-9da1-de5a81f9c079&xptdk=65ab44d6-c6ed-4ff0-9da1-de5a81f9c079: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:07:21,574 - root - INFO - Scraped Quần đùi nam Guzado mẫu short vải thun lạnh SIÊU CO GIÃN,thoáng mát vận động thoải mái GSR02 successfully
+2024-07-09 14:07:48,094 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-%C3%82u-Kaki-Nam-Vicenzo-V%E1%BA%A3i-Cotton-D%C3%A0y-D%E1%BA%B7n-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Kaki-i.279899189.9871665918?sp_atk=029734cf-fa0b-4c45-a3bc-88315873d0ed&xptdk=029734cf-fa0b-4c45-a3bc-88315873d0ed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:08:17,255 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-%C3%82u-Kaki-Nam-Vicenzo-V%E1%BA%A3i-Cotton-D%C3%A0y-D%E1%BA%B7n-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Kaki-i.279899189.9871665918?sp_atk=029734cf-fa0b-4c45-a3bc-88315873d0ed&xptdk=029734cf-fa0b-4c45-a3bc-88315873d0ed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 14:08:53,028 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-%C3%82u-Kaki-Nam-Vicenzo-V%E1%BA%A3i-Cotton-D%C3%A0y-D%E1%BA%B7n-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Kaki-i.279899189.9871665918?sp_atk=029734cf-fa0b-4c45-a3bc-88315873d0ed&xptdk=029734cf-fa0b-4c45-a3bc-88315873d0ed: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x00376C7F]
+	(No symbol) [0x003788F8]
+	(No symbol) [0x00378970]
+	(No symbol) [0x003ADD91]
+	(No symbol) [0x003D399C]
+	(No symbol) [0x003A8C15]
+	(No symbol) [0x003D3C34]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 14:09:37,253 - root - INFO - Scraped Quần short thun nam nữ Quần Đùi Unisex Sooc Lửng Chất Cotton successfully
+2024-07-09 14:10:09,266 - root - INFO - Scraped Quần short nam essential chất umi thể thao mặc thoáng mát successfully
+2024-07-09 14:10:36,746 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-Tr%C6%A1n-ATINO-Ch%E1%BA%A5t-Li%E1%BB%87u-Cotton-D%C3%A1ng-Tr%E1%BA%BB-Trung-Form-Regular-L.4.1644-i.439115986.24322576213?sp_atk=886bb71f-e3d6-4f16-889e-64b256e06615&xptdk=886bb71f-e3d6-4f16-889e-64b256e06615: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:11:16,039 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-Tr%C6%A1n-ATINO-Ch%E1%BA%A5t-Li%E1%BB%87u-Cotton-D%C3%A1ng-Tr%E1%BA%BB-Trung-Form-Regular-L.4.1644-i.439115986.24322576213?sp_atk=886bb71f-e3d6-4f16-889e-64b256e06615&xptdk=886bb71f-e3d6-4f16-889e-64b256e06615: Message: 
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 14:11:50,651 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-Tr%C6%A1n-ATINO-Ch%E1%BA%A5t-Li%E1%BB%87u-Cotton-D%C3%A1ng-Tr%E1%BA%BB-Trung-Form-Regular-L.4.1644-i.439115986.24322576213?sp_atk=886bb71f-e3d6-4f16-889e-64b256e06615&xptdk=886bb71f-e3d6-4f16-889e-64b256e06615: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/div/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 14:12:37,251 - root - ERROR - Exception when scraping https://shopee.vn/-Max-305-Size-l%E1%BB%9Bn-95kg-Qu%E1%BA%A7n-Short-Jean-Cotton-Nam-V%E1%BA%A3i-Kh%C3%B4ng-Co-D%C3%A3n-%C4%90%C6%A1n-Gi%E1%BA%A3n-N%C4%83ng-%C4%90%E1%BB%99ng--i.21601804.13886098431?sp_atk=37da57be-3f0a-46f9-b3b9-9ceeff25cc9d&xptdk=37da57be-3f0a-46f9-b3b9-9ceeff25cc9d: Message: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x0035DB43]
+	(No symbol) [0x0035D99E]
+	(No symbol) [0x0035BDE9]
+	(No symbol) [0x0035C3CD]
+	(No symbol) [0x0036870A]
+	(No symbol) [0x0037C851]
+	(No symbol) [0x00380CF6]
+	(No symbol) [0x0035CA3C]
+	(No symbol) [0x0037C6F2]
+	(No symbol) [0x003ECA43]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:14:38,230 - root - ERROR - Exception when scraping https://shopee.vn/-Max-305-Size-l%E1%BB%9Bn-95kg-Qu%E1%BA%A7n-Short-Jean-Cotton-Nam-V%E1%BA%A3i-Kh%C3%B4ng-Co-D%C3%A3n-%C4%90%C6%A1n-Gi%E1%BA%A3n-N%C4%83ng-%C4%90%E1%BB%99ng--i.21601804.13886098431?sp_atk=37da57be-3f0a-46f9-b3b9-9ceeff25cc9d&xptdk=37da57be-3f0a-46f9-b3b9-9ceeff25cc9d: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004DC1C3+27395]
+	(No symbol) [0x00473DC4]
+	(No symbol) [0x00371B7F]
+	(No symbol) [0x003B2C65]
+	(No symbol) [0x003B2D3B]
+	(No symbol) [0x003EEC82]
+	(No symbol) [0x003D39E4]
+	(No symbol) [0x003ECB24]
+	(No symbol) [0x003D3736]
+	(No symbol) [0x003A7541]
+	(No symbol) [0x003A80BD]
+	GetHandleVerifier [0x00793A93+2876371]
+	GetHandleVerifier [0x007E7F5D+3221661]
+	GetHandleVerifier [0x0055D634+556916]
+	GetHandleVerifier [0x0056474C+585868]
+	(No symbol) [0x0047CE04]
+	(No symbol) [0x00479818]
+	(No symbol) [0x004799B7]
+	(No symbol) [0x0046BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 14:31:47,868 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:39:33,374 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:40:09,694 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:40:52,176 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:41:28,763 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:41:52,317 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-09 14:42:03,529 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80 successfully
+2024-07-09 14:42:18,946 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA successfully
+2024-07-09 14:42:33,262 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp khuy pha cúc trẻ trung đùi ngắn premium xịn [Q46] successfully
+2024-07-09 14:42:49,214 - root - INFO - Scraped Quần Đùi Nam Nữ Thun Cotton AmericanStyle Đập Tan Nóng Bức Mặc Nhà, Mặc Làm Quần Ngủ Có Bigsize successfully
+2024-07-09 14:43:03,910 - root - INFO - Scraped Áo sơ mi nam ngắn tay ,chất vải lụa Thái cotton mềm mịn thoáng mát kiểu dáng trung niên TN LỤA MVP successfully
+2024-07-09 14:43:20,656 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Phong Cách Hàn Quôc Mặc Thoáng Mát successfully
+2024-07-09 14:43:33,607 - root - INFO - Scraped Quần Short Nilen Nam ( Hàng Xịn, Lên Form Cực Đẹp ) Store NA successfully
+2024-07-09 14:43:44,479 - root - INFO - Scraped Quần Short đùi Bò Jean Nam Avocado Trắng Đen Retro Wash Co Giãn form TRÊN GỐI successfully
+2024-07-09 14:44:17,826 - root - ERROR - Exception when scraping https://shopee.vn/-TAS002-QU%E1%BA%A6N-SHORT-T%C3%82Y-%C3%82U-NAM-H%C3%80NG-%C4%90%E1%BA%B8P-CO-GI%C3%83N-NH%E1%BA%B8-KH%C3%94NG-NH%C4%82N-KH%C3%94NG-X%C3%99-KH%C3%94NG-PHAI-M%C3%80U-i.54308152.23268885781?sp_atk=eeac2d01-efc1-43ea-a6ad-a3342bda3fed&xptdk=eeac2d01-efc1-43ea-a6ad-a3342bda3fed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:44:30,967 - root - INFO - Scraped [TAS002] QUẦN SHORT TÂY ÂU NAM HÀNG ĐẸP CO GIÃN NHẸ - KHÔNG NHĂN - KHÔNG XÙ - KHÔNG PHAI MÀU successfully
+2024-07-09 14:44:46,250 - root - INFO - Scraped Quần lót nam thể thao cao cấp chất thun lạnh đẹp quần sịp nam đùi mềm mại co dãn successfully
+2024-07-09 14:45:00,659 - root - INFO - Scraped Quần Short Unisex nam nữ trơn quần đùi nam chất vải xốp tổ ong mát mẻ thoải mái successfully
+2024-07-09 14:45:14,843 - root - INFO - Scraped Quần Short Nam 6 Màu Trẻ Trung Chất Liệu Kaki Mềm Mại, Quần Đùi Nam Kiểu Dáng Basic Phong Cách Hàn Quốc VICERO successfully
+2024-07-09 14:45:49,510 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:46:02,109 - root - INFO - Scraped Áo Polo Phối cổ SPION Local Brand polo unisex nam nữ oversize - KNC 192 successfully
+2024-07-09 14:46:34,861 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Thun-Soccer-Ph%E1%BB%91i-Local-Brand-By-UniSpace-Our-Ground-%C3%81o-Ph%C3%B4ng-Unisex-Pao_STORE-i.1187191071.25614188879?sp_atk=4c7a0726-695d-4518-835b-54d23f3f6925&xptdk=4c7a0726-695d-4518-835b-54d23f3f6925: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:46:46,267 - root - INFO - Scraped Áo Thun Soccer Phối Local Brand By UniSpace Our Ground Áo Phông Unisex Pao_STORE successfully
+2024-07-09 14:47:01,628 - root - INFO - Scraped ⚡️ Giá Sốc ⚡️Thắt lưng nam da cao cấp khóa kim loại tự động không gỉ - Cam kết 1 đổi 1 bảo hành 12 tháng successfully
+2024-07-09 14:47:15,412 - root - INFO - Scraped Quần Short unisex nam nữ chất cotton cao cấp, phong cách thể thao, mặc thoáng mát, co dãn 4 chiều, quần đùi nam nữ, basi successfully
+2024-07-09 14:47:32,420 - root - INFO - Scraped Thắt Lưng Da Nam🔥Giá Sốc🔥Khóa Tự Động Cao Cấp Dây Nịt Nam Mặt Xoay Chính Hãng , Phong Cách Hàn Quốc successfully
+2024-07-09 14:47:46,178 - root - INFO - Scraped Áo thun nam nữ tay lỡ Angel Devil, áo phông cotton from rộng freesize unisex AD-Trend successfully
+2024-07-09 14:47:59,090 - root - INFO - Scraped Áo thun nam nữ unisex tay lỡ A.R.0.1, áo phông cotton form rộng oversize streetwear Trend 2022 successfully
+2024-07-09 14:48:14,701 - root - INFO - Scraped Dây Nịt Da Bò Nguyên Miếng Vicezo Cao Cấp Bảo Hành Lỗi 1 Đổi 1, Thắt Lưng Nam Da Bò Nguyên Tấm successfully
+2024-07-09 14:48:30,388 - root - INFO - Scraped Áo thun nam, áo phông nam tay ngắn cổ tròn chất cotton dày dặn thoáng mát ATN010 - An Cường Fashion successfully
+2024-07-09 14:48:44,905 - root - INFO - Scraped Quần Short Unisex Basic thể thao phong cách Hàn Quốc nam nữ mặc cực chất successfully
+2024-07-09 14:48:58,451 - root - INFO - Scraped Áo sơ mi nam Basic chất kaki cao cấp cực đẹp successfully
+2024-07-09 14:49:13,035 - root - INFO - Scraped Quần short nam ROWAY, vải kaki co giãn nhẹ, form regular | short successfully
+2024-07-09 14:49:27,628 - root - INFO - Scraped Quần short kaki LocalBrand Insomnia "SIGNATURE SHORT" #5 color successfully
+2024-07-09 14:49:42,622 - root - INFO - Scraped Thắt lưng nam chữ lv kẻ caro, dây lưng nam Caro đủ màu, đầu khóa chữ nhỏ A1CLV1 successfully
+2024-07-09 14:49:56,934 - root - INFO - Scraped Quần short đùi nam chất mango mịn, mát cao cấp LADOS-4099 có dây rút, túi tiện lợi, dạo phố, tập gym, chạy bộ successfully
+2024-07-09 14:50:10,869 - root - INFO - Scraped Thắt Lưng Bằng Vải canvas Kiểu Dáng Đơn Giản Phong Cách Cao Bồi Cho Nam successfully
+2024-07-09 14:50:25,248 - root - INFO - Scraped Quần Đùi Nam GUZADO Vải Gió Thể Thao Cạp Chun Mềm Mại,Co Giãn Vận Động Thoải Mái Màu Basic Dễ Phối Đồ GSR01 successfully
+2024-07-09 14:50:41,134 - root - INFO - Scraped Thắt lưng nam da cao cấp, dây lưng nam mặt khóa tự động sang trọng, nịt da màu đen TLĐ01 successfully
+2024-07-09 14:50:57,278 - root - INFO - Scraped Quần Lót Nam [ COMBO 5C] quần lót boxer nam LA thun lạnh thoáng khí co giãn 4 chiều set 5 màu successfully
+2024-07-09 14:51:10,308 - root - INFO - Scraped Áo Nắng Nam Thông Hơi,Cạp To, Túi Có Khoá Kéo An Toàn successfully
+2024-07-09 14:51:25,651 - root - INFO - Scraped Short Short Nam Trơn Chất Xốp Tổ Ong Co Giãn Mát Mẻ Thoải Mái ABANDON H20 successfully
+2024-07-09 14:51:39,725 - root - INFO - Scraped [HÀNG HIỆU] Thắt Lưng Da Nam Khóa Tự Động Cao Cấp Dây Nịt Nam Mặt Xoay Chính Hãng , Phong Cách Hàn Quốc successfully
+2024-07-09 14:51:55,358 - root - INFO - Scraped Quần Dài Form Rộng NOCTURNAL Track Pants Unisex Nam Nữ Local Brand Đứng Form Co Giãn Tốt successfully
+2024-07-09 14:52:08,873 - root - INFO - Scraped Quần Short Nam Kaki Đẹp Đen Trắng Cao Cấp Dáng Hàn Quốc VESCA H3 successfully
+2024-07-09 14:52:25,297 - root - INFO - Scraped Áo thun nam giữ nhiệt size 35 - 95kg 💎𝑭𝑹𝑬𝑬 𝑺𝑯𝑰𝑷💎 thể thao dài tay mềm mại trẻ trung năng động successfully
+2024-07-09 14:52:39,669 - root - INFO - Scraped Áo thun nam POLO trơn vải cá sấu cotton cao cấp ngắn tay cực sang trọng successfully
+2024-07-09 14:52:55,633 - root - INFO - Scraped 12BOXER Quần dài nam xuân hè, quần lụa băng mỏng nam, quần tây nam, quần thể thao ống rộng đơn giản kiểu Hàn Quốc, thoáng mát successfully
+2024-07-09 14:53:10,470 - root - INFO - Scraped Quần Short Tổng Hợp Form Unisex Nam Nữ - Quần Ngắn Nỉ Chân Cua Đầy Đủ Tem Tag successfully
+2024-07-09 14:53:25,637 - root - INFO - Scraped QUẦN SHORT KAKI NAM CO GIÃN CAO CẤP BẢNG MÀU PASTEL CỰC HOT successfully
+2024-07-09 14:53:41,253 - root - INFO - Scraped Áo sơ mi nam kiểu dáng basic TOPMEN khoác ngoài chất vải kaki cao cấp trẻ trung năng động phù hợp cả mặc đi làm, đi chơi successfully
+2024-07-09 14:53:55,767 - root - INFO - Scraped Quần Tây Nam - Quần Âu Nam cao cấp Trendyman Công Sở Dáng Ôm Chuẩn Vải lụa Không Nhăn Không Xù cao cấp successfully
+2024-07-09 14:54:13,003 - root - INFO - Scraped Áo thun tay lỡ form rộng unisex PANDA, Áo phông nam nữ form rộng ATL05 successfully
+2024-07-09 14:54:27,337 - root - INFO - Scraped Quần đùi nam vải gió in logo thể thao vận động chạy bộ đi chơi đều đẹp successfully
+2024-07-09 14:54:43,460 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Mặc Thoáng Mát Phong Cách Hàn Quốc Nam Nữ Mặc Cực Chất successfully
+2024-07-09 14:54:59,655 - root - INFO - Scraped Thắt Lưng Nam Da Bò Thật VICENZO Khóa Tự Động Hợp Kim Chống Rỉ, Dây Nịt Nam Da Bò Thật Lỗi 1 Đổi 1 successfully
+2024-07-09 14:55:14,114 - root - INFO - Scraped Quần short nam ngắn chất liệu kaki co giãn phong cách trẻ trung, cá tính 5 màu dễ phối đồ successfully
+2024-07-09 14:55:28,712 - root - INFO - Scraped Quần đùi nam Guzado mẫu short vải thun lạnh SIÊU CO GIÃN,thoáng mát vận động thoải mái GSR02 successfully
+2024-07-09 14:55:43,331 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-%C3%82u-Kaki-Nam-Vicenzo-V%E1%BA%A3i-Cotton-D%C3%A0y-D%E1%BA%B7n-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Kaki-i.279899189.9871665918?sp_atk=029734cf-fa0b-4c45-a3bc-88315873d0ed&xptdk=029734cf-fa0b-4c45-a3bc-88315873d0ed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[2]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 14:55:56,386 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-%C3%82u-Kaki-Nam-Vicenzo-V%E1%BA%A3i-Cotton-D%C3%A0y-D%E1%BA%B7n-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Kaki-i.279899189.9871665918?sp_atk=029734cf-fa0b-4c45-a3bc-88315873d0ed&xptdk=029734cf-fa0b-4c45-a3bc-88315873d0ed: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x001F6C7F]
+	(No symbol) [0x001F88F8]
+	(No symbol) [0x001F8970]
+	(No symbol) [0x0022DD91]
+	(No symbol) [0x0025399C]
+	(No symbol) [0x00228C15]
+	(No symbol) [0x00253C34]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 14:56:09,885 - root - INFO - Scraped Quần Short Âu Kaki Nam Vicenzo Vải Cotton Dày Dặn, Quần Đùi Nam Kaki successfully
+2024-07-09 14:56:25,412 - root - INFO - Scraped Quần short thun nam nữ Quần Đùi Unisex Sooc Lửng Chất Cotton successfully
+2024-07-09 14:56:39,393 - root - INFO - Scraped Quần short nam essential chất umi thể thao mặc thoáng mát successfully
+2024-07-09 14:56:56,321 - root - INFO - Scraped Quần Short Nam Trơn ATINO Chất Liệu Cotton Dáng Trẻ Trung Form Regular L.4.1644 successfully
+2024-07-09 14:57:09,770 - root - INFO - Scraped [Max 305] Size lớn 95kg, Quần Short Jean Cotton Nam Vải Không Co Dãn, Đơn Giản Năng Động ============================>>> successfully
+2024-07-09 14:57:22,932 - root - INFO - Scraped Quần short,Quần ngố nam vải đũi (Loại Đẹp) successfully
+2024-07-09 14:57:39,553 - root - INFO - Scraped Quần đùi short thể thao nam tập gym vải gió thoáng mát, logo mặc trước và sau quần ép phản quang successfully
+2024-07-09 14:57:54,139 - root - INFO - Scraped Đồ bộ nam chất thun lạnh in Ice Ice đường ray cực đẹp, kiểu dáng slim fit đơn giản mặc đẹp mọi lứa tuồi DB40 successfully
+2024-07-09 14:58:13,494 - root - INFO - Scraped Quần short nam JBAGY vải kaki cotton xuất xịn, ống ngắn trên đùi vải co giãn 2 chiều - JN2401 successfully
+2024-07-09 14:58:27,170 - root - INFO - Scraped Thắt Lưng Nam Khóa Tự Động Cao Cấp Mặt Xoay Chính Hãng , Dây Nịt Nam Phong Cách Hàn Quốc successfully
+2024-07-09 14:58:42,746 - root - INFO - Scraped Áo thun POLOMAN cổ bẻ BASIC CVC vải cá sấu sang trọng, lịch lãm, thoáng mát successfully
+2024-07-09 14:58:55,751 - root - INFO - Scraped Quần Short Kaki Nam VINTINO Form Đùi Cộc Cạp Chun Vải Kaki Gió Mềm Mại QS01 successfully
+2024-07-09 14:59:09,164 - root - INFO - Scraped Quần short thể thao nam basic BAMIHOME chất vải nỉ da cá khô thoáng, thoải mái QN08 successfully
+2024-07-09 14:59:25,352 - root - INFO - Scraped Quần đùi nam thể thao 𝐑𝐄𝐄𝐁𝐎𝐊-𝐒𝐏𝐎𝐑𝐓 vải thun lạnh 2 túi khóa kéo vải dày co dãn 4 chiều-QSTT012 successfully
+2024-07-09 14:59:39,379 - root - INFO - Scraped Áo phông tay lỡ form rộng nam nữ unisex chữ WHEN EVER vải dày mịn successfully
+2024-07-09 14:59:54,726 - root - INFO - Scraped Quần short nam thể thao có loại vải thun và vải gió, quần đùi nam mặc nhà đi chơi tập gym-DUI01 successfully
+2024-07-09 15:00:11,448 - root - INFO - Scraped Quần Short Kaki Nam AVIANO 5 Màu, Quần Đùi Co Giãn Phối Cạp Chun successfully
+2024-07-09 15:00:24,947 - root - INFO - Scraped Quần đùi nam thể thao in logo Full size, Chất vải Gió successfully
+2024-07-09 15:00:40,560 - root - INFO - Scraped Áo sơ mi đũi nam cộc tay phối túi ngực thời trang Store NA successfully
+2024-07-09 15:01:17,271 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%89P-%C4%90%C3%9AC-YZY%E2%9D%A4%EF%B8%8F-FREESHIP-T%E1%BA%B6NG-V%E1%BB%9A-%E2%9D%A4%EF%B8%8F-QUAI-NGANG-NAM-N%E1%BB%AE-V%C3%82N-NH%C3%81M-%C4%90%E1%BA%BE-CAO-4-PH%C3%82N-QU%C3%80-T%E1%BA%B6NG-Kh%C3%A1ch-t%E1%BB%B1-ch%E1%BB%8Dn-l%C3%BAc-%C4%91%E1%BA%B7t-h%C3%A0ng-i.134952940.25029475662?sp_atk=64fcaf43-2161-4aa4-bd70-592b22ec0540&xptdk=64fcaf43-2161-4aa4-bd70-592b22ec0540: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-09 15:01:51,258 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%89P-%C4%90%C3%9AC-YZY%E2%9D%A4%EF%B8%8F-FREESHIP-T%E1%BA%B6NG-V%E1%BB%9A-%E2%9D%A4%EF%B8%8F-QUAI-NGANG-NAM-N%E1%BB%AE-V%C3%82N-NH%C3%81M-%C4%90%E1%BA%BE-CAO-4-PH%C3%82N-QU%C3%80-T%E1%BA%B6NG-Kh%C3%A1ch-t%E1%BB%B1-ch%E1%BB%8Dn-l%C3%BAc-%C4%91%E1%BA%B7t-h%C3%A0ng-i.134952940.25029475662?sp_atk=64fcaf43-2161-4aa4-bd70-592b22ec0540&xptdk=64fcaf43-2161-4aa4-bd70-592b22ec0540: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-09 15:02:25,439 - root - ERROR - Exception when scraping https://shopee.vn/D%C3%89P-%C4%90%C3%9AC-YZY%E2%9D%A4%EF%B8%8F-FREESHIP-T%E1%BA%B6NG-V%E1%BB%9A-%E2%9D%A4%EF%B8%8F-QUAI-NGANG-NAM-N%E1%BB%AE-V%C3%82N-NH%C3%81M-%C4%90%E1%BA%BE-CAO-4-PH%C3%82N-QU%C3%80-T%E1%BA%B6NG-Kh%C3%A1ch-t%E1%BB%B1-ch%E1%BB%8Dn-l%C3%BAc-%C4%91%E1%BA%B7t-h%C3%A0ng-i.134952940.25029475662?sp_atk=64fcaf43-2161-4aa4-bd70-592b22ec0540&xptdk=64fcaf43-2161-4aa4-bd70-592b22ec0540: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-09 15:02:39,278 - root - INFO - Scraped Quần short nam, quần ngắn nam kaki [LOẠI ĐẸP] cạp khuy trẻ trung năng động successfully
+2024-07-09 15:02:55,389 - root - INFO - Scraped Áo thun Polo nam thêu Logo DEER vải thun cotton 4 chiều co giãn cực kỳ sang trọng-DEERVIEN212 successfully
+2024-07-09 15:03:10,607 - root - INFO - Scraped ÁO THUN TRƠN ĐEN TRẮNG BASIC NAM NỮ CỔ TRÒN BAO MỊN successfully
+2024-07-09 15:03:25,961 - root - INFO - Scraped Quần đùi thun nam mặc ngủ cực mát successfully
+2024-07-09 15:03:40,995 - root - INFO - Scraped Quần đùi nam nữ unisex in hình vịt vàng chất liệu umi dày dặn form đẹp thoáng mát - REW2021 successfully
+2024-07-09 15:03:57,273 - root - INFO - Scraped Áo khoác chống nắng Nam BL Fashion cổ cao túi khoá kéo,chất liệu vải kim cương thun thoáng khí successfully
+2024-07-09 15:04:11,679 - root - INFO - Scraped Quần đùi nam thun thể thao co giãn nhẹ mát có túi khóa kéo successfully
+2024-07-09 15:04:27,622 - root - INFO - Scraped [HĐ 399K TẶNG SỊP]Quần Short Kaki Nam 5S FASHION Mềm Mịn, Thiết Kế Basic, Cúc Ẩn Mặt Trong Lịch Sự (QSK24014) successfully
+2024-07-09 15:04:42,888 - root - INFO - Scraped Dây lưng nam cao cấp, thắt lưng nam lv, dây lưng lv thời trang, mặt kim loại nguyên khối trẻ trung lịch lãm TLLV002 successfully
+2024-07-09 15:05:00,416 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp chun pha cúc trẻ trung successfully
+2024-07-09 15:05:15,464 - root - INFO - Scraped Hộp 4 chiếc sịp đùi thông hơi cao cấp dành cho nam, chất liệu mềm mịn bền đẹp thoáng mát. successfully
+2024-07-09 15:05:30,515 - root - INFO - Scraped Đồ bộ thể thao nam mặc hè xuyên biên giới, Chất thun cotton thấm hút mồ hôi cực tốt Kiểu dáng Slim Fit siêu đẹp DB37 successfully
+2024-07-09 15:05:47,858 - root - INFO - Scraped Áo thun trơn Kirkland Unisex Oversize [Nam,Nữ] - Áo phông - Màu: successfully
+2024-07-09 15:06:02,514 - root - INFO - Scraped Quần đùi nam có size to đến 90kg, dễ mặc thoải mái ngày hè ✅ successfully
+2024-07-09 15:06:18,468 - root - INFO - Scraped Thắt lưng mặt xoay nam thắt lưng nam cao cấp thời trang dây nịt da khóa tự động X003 successfully
+2024-07-09 15:06:34,116 - root - INFO - Scraped Combo 2 quần đùi nam Guzado Cạp Chun,Vải Gió Thể Thao Vận Động Thoải Mái CBGSR01 successfully
+2024-07-09 15:06:49,346 - root - INFO - Scraped Quần Short Đũi Nam Dây Dút siêu mát - Quần đũi ngố nam đi phố đi biển successfully
+2024-07-09 15:07:07,990 - root - INFO - Scraped Áo Thun Mlb unisex Nam Nữ In Logo LA From chuẩn Siêu Nét Chất Vải Cotton 100% Thoáng Mát Thấm Hút Mồ Hôi hottrend 2024 successfully
+2024-07-09 15:07:23,808 - root - INFO - Scraped Quần Short Jean Nam boy phố chất bò cotton lửng ngang gối quần short nam NHIỀU MẪU ĐẸP QS250 successfully
+2024-07-09 15:07:40,200 - root - INFO - Scraped Quần Short Nam H90 Chất Thun Co Giãn, Quần Đùi Nam Màu Đen Basic Đơn Giản Thấm Hút Mồ Hôi QST01 successfully
+2024-07-09 15:07:54,460 - root - INFO - Scraped Quần Short Thun Nam Trơn Chất Vải Xốp Tổ Ong Mát Mẻ Thoải Mái successfully
+2024-07-09 15:08:11,269 - root - INFO - Scraped Áo Thun Cổ Tròn Nam COTON Vải Cotton Cao Cấp Đẹp Phông Tay Ngắn Màu Trắng Đen Đỏ Xanh Navy Trơn Họa Tiết NATO successfully
+2024-07-09 15:08:26,857 - root - INFO - Scraped Quần Short in logo Teelab 2 Túi Hộp, Quần Đùi From Rộng Unisex Nam Nữ Mặc Thoáng Mát successfully
+2024-07-09 15:08:42,174 - root - INFO - Scraped Áo thun thể thao nam Choice Việt Nam HT02 ngắn tay màu trơn thời trang successfully
+2024-07-09 15:09:00,347 - root - INFO - Scraped Quần đùi stussy ,Quần short chất UMI fom unisex nam nữ mặc cực chất -CHỮ BÉ STUSSY successfully
+2024-07-09 15:09:16,421 - root - INFO - Scraped Quần đùi nam thun cotton mặc ngủ thoải mái SEVEN BOXER (BIG SIZE) successfully
+2024-07-09 15:09:34,132 - root - INFO - Scraped 🔥 SỐC 🔥 Thắt lưng nam da cao cấp khóa hợp kim tự động sang trọng lịch lãm - Nịt da bảo hành 12 tháng successfully
+2024-07-09 15:09:49,850 - root - INFO - Scraped Quần áo Thun Nam - bộ quần áo nam 3 sọc kẻ thời trang mùa hè successfully
+2024-07-09 15:10:05,808 - root - INFO - Scraped Quần Short thun DREW , ESSENTlAL [Vải Chân Cua Cao Cấp] - Street Style Nam, Nữ - Đùi Thể Thao, Gym - Quần: successfully
+2024-07-09 15:10:21,812 - root - INFO - Scraped Áo thun tay lỡ form rộng unisex WOOPS, Áo phông nam nữ form rộng ATL14 successfully
+2024-07-09 15:10:37,882 - root - INFO - Scraped Áo Chống Nắng Thông Hơi Nam successfully
+2024-07-11 12:33:17,886 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:33:49,200 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%91%C3%B9i-nam-th%E1%BB%83-thao-qu%E1%BA%A7n-short-h%C3%A0ng-xu%E1%BA%A5t-cao-c%E1%BA%A5p-phong-c%C3%A1ch-tr%E1%BA%BB-trung-n%C4%83ng-%C4%91%E1%BB%99ng-T80-i.724295836.17230021278?sp_atk=d73397a2-91f3-4194-b219-16fcec1dff5a&xptdk=d73397a2-91f3-4194-b219-16fcec1dff5a: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010CC1C3+27395]
+	(No symbol) [0x01063DC4]
+	(No symbol) [0x00F61B7F]
+	(No symbol) [0x00FA2C65]
+	(No symbol) [0x00FA2D3B]
+	(No symbol) [0x00FDEC82]
+	(No symbol) [0x00FC39E4]
+	(No symbol) [0x00FDCB24]
+	(No symbol) [0x00FC3736]
+	(No symbol) [0x00F97541]
+	(No symbol) [0x00F980BD]
+	GetHandleVerifier [0x01383A93+2876371]
+	GetHandleVerifier [0x013D7F5D+3221661]
+	GetHandleVerifier [0x0114D634+556916]
+	GetHandleVerifier [0x0115474C+585868]
+	(No symbol) [0x0106CE04]
+	(No symbol) [0x01069818]
+	(No symbol) [0x010699B7]
+	(No symbol) [0x0105BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:34:09,356 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:34:21,630 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80
+2024-07-11 12:34:37,893 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA
+2024-07-11 12:34:56,975 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:35:06,994 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80
+2024-07-11 12:35:21,929 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA
+2024-07-11 12:35:37,252 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp khuy pha cúc trẻ trung đùi ngắn premium xịn [Q46]
+2024-07-11 12:35:51,001 - root - INFO - Scraped Quần Đùi Nam Nữ Thun Cotton AmericanStyle Đập Tan Nóng Bức Mặc Nhà, Mặc Làm Quần Ngủ Có Bigsize
+2024-07-11 12:36:23,210 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-s%C6%A1-mi-nam-ng%E1%BA%AFn-tay-ch%E1%BA%A5t-v%E1%BA%A3i-l%E1%BB%A5a-Th%C3%A1i-cotton-m%E1%BB%81m-m%E1%BB%8Bn-tho%C3%A1ng-m%C3%A1t-ki%E1%BB%83u-d%C3%A1ng-trung-ni%C3%AAn-TN-L%E1%BB%A4A-MVP-i.228831423.23317990155?sp_atk=fc63264e-6a14-486c-a169-c95822e0cb22&xptdk=fc63264e-6a14-486c-a169-c95822e0cb22: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:36:55,289 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-s%C6%A1-mi-nam-ng%E1%BA%AFn-tay-ch%E1%BA%A5t-v%E1%BA%A3i-l%E1%BB%A5a-Th%C3%A1i-cotton-m%E1%BB%81m-m%E1%BB%8Bn-tho%C3%A1ng-m%C3%A1t-ki%E1%BB%83u-d%C3%A1ng-trung-ni%C3%AAn-TN-L%E1%BB%A4A-MVP-i.228831423.23317990155?sp_atk=fc63264e-6a14-486c-a169-c95822e0cb22&xptdk=fc63264e-6a14-486c-a169-c95822e0cb22: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 12:37:07,144 - root - INFO - Scraped Áo sơ mi nam ngắn tay ,chất vải lụa Thái cotton mềm mịn thoáng mát kiểu dáng trung niên TN LỤA MVP
+2024-07-11 12:37:20,357 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Phong Cách Hàn Quôc Mặc Thoáng Mát
+2024-07-11 12:37:33,729 - root - INFO - Scraped Quần Short Nilen Nam ( Hàng Xịn, Lên Form Cực Đẹp ) Store NA
+2024-07-11 12:37:48,401 - root - INFO - Scraped Quần Short đùi Bò Jean Nam Avocado Trắng Đen Retro Wash Co Giãn form TRÊN GỐI
+2024-07-11 12:38:02,564 - root - INFO - Scraped [TAS002] QUẦN SHORT TÂY ÂU NAM HÀNG ĐẸP CO GIÃN NHẸ - KHÔNG NHĂN - KHÔNG XÙ - KHÔNG PHAI MÀU
+2024-07-11 12:38:37,985 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-l%C3%B3t-nam-th%E1%BB%83-thao-cao-c%E1%BA%A5p-ch%E1%BA%A5t-thun-l%E1%BA%A1nh-%C4%91%E1%BA%B9p-qu%E1%BA%A7n-s%E1%BB%8Bp-nam-%C4%91%C3%B9i-m%E1%BB%81m-m%E1%BA%A1i-co-d%C3%A3n-i.132131867.18681403459?sp_atk=1e1c6d2f-ad43-4541-81e9-aec3288a9077&xptdk=1e1c6d2f-ad43-4541-81e9-aec3288a9077: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:38:49,705 - root - INFO - Scraped Quần lót nam thể thao cao cấp chất thun lạnh đẹp quần sịp nam đùi mềm mại co dãn
+2024-07-11 12:39:25,312 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Unisex-nam-n%E1%BB%AF-tr%C6%A1n-qu%E1%BA%A7n-%C4%91%C3%B9i-nam-ch%E1%BA%A5t-v%E1%BA%A3i-x%E1%BB%91p-t%E1%BB%95-ong-m%C3%A1t-m%E1%BA%BB-tho%E1%BA%A3i-m%C3%A1i-i.132131867.24869780428?sp_atk=86959269-bc9c-40ae-8a3f-f4f6b2f876c2&xptdk=86959269-bc9c-40ae-8a3f-f4f6b2f876c2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:39:37,310 - root - INFO - Scraped Quần Short Unisex nam nữ trơn quần đùi nam chất vải xốp tổ ong mát mẻ thoải mái
+2024-07-11 12:40:10,827 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-6-M%C3%A0u-Tr%E1%BA%BB-Trung-Ch%E1%BA%A5t-Li%E1%BB%87u-Kaki-M%E1%BB%81m-M%E1%BA%A1i-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Ki%E1%BB%83u-D%C3%A1ng-Basic-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-VICERO-i.40342563.2025456816?sp_atk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b&xptdk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:40:42,741 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-6-M%C3%A0u-Tr%E1%BA%BB-Trung-Ch%E1%BA%A5t-Li%E1%BB%87u-Kaki-M%E1%BB%81m-M%E1%BA%A1i-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Ki%E1%BB%83u-D%C3%A1ng-Basic-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-VICERO-i.40342563.2025456816?sp_atk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b&xptdk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 12:41:15,585 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-Short-Nam-6-M%C3%A0u-Tr%E1%BA%BB-Trung-Ch%E1%BA%A5t-Li%E1%BB%87u-Kaki-M%E1%BB%81m-M%E1%BA%A1i-Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-Ki%E1%BB%83u-D%C3%A1ng-Basic-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-VICERO-i.40342563.2025456816?sp_atk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b&xptdk=e0dcd3c1-930e-45e9-bc22-a8e57a75541b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-11 12:41:47,648 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:42:20,852 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 12:42:59,157 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-11 12:43:39,122 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Thun-Soccer-Ph%E1%BB%91i-Local-Brand-By-UniSpace-Our-Ground-%C3%81o-Ph%C3%B4ng-Unisex-Pao_STORE-i.1187191071.25614188879?sp_atk=4c7a0726-695d-4518-835b-54d23f3f6925&xptdk=4c7a0726-695d-4518-835b-54d23f3f6925: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:44:28,957 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Thun-Soccer-Ph%E1%BB%91i-Local-Brand-By-UniSpace-Our-Ground-%C3%81o-Ph%C3%B4ng-Unisex-Pao_STORE-i.1187191071.25614188879?sp_atk=4c7a0726-695d-4518-835b-54d23f3f6925&xptdk=4c7a0726-695d-4518-835b-54d23f3f6925: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 12:45:35,481 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Thun-Soccer-Ph%E1%BB%91i-Local-Brand-By-UniSpace-Our-Ground-%C3%81o-Ph%C3%B4ng-Unisex-Pao_STORE-i.1187191071.25614188879?sp_atk=4c7a0726-695d-4518-835b-54d23f3f6925&xptdk=4c7a0726-695d-4518-835b-54d23f3f6925: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-11 12:47:26,472 - root - ERROR - Exception when scraping https://shopee.vn/%E2%9A%A1%EF%B8%8F-Gi%C3%A1-S%E1%BB%91c-%E2%9A%A1%EF%B8%8FTh%E1%BA%AFt-l%C6%B0ng-nam-da-cao-c%E1%BA%A5p-kh%C3%B3a-kim-lo%E1%BA%A1i-t%E1%BB%B1-%C4%91%E1%BB%99ng-kh%C3%B4ng-g%E1%BB%89-Cam-k%E1%BA%BFt-1-%C4%91%E1%BB%95i-1-b%E1%BA%A3o-h%C3%A0nh-12-th%C3%A1ng-i.493704632.23263153105?sp_atk=13ced478-e8d0-4e48-9d6a-0f5357151115&xptdk=13ced478-e8d0-4e48-9d6a-0f5357151115: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BAC1C3+27395]
+	(No symbol) [0x00B43DC4]
+	(No symbol) [0x00A41B7F]
+	(No symbol) [0x00A82C65]
+	(No symbol) [0x00A82D3B]
+	(No symbol) [0x00ABEC82]
+	(No symbol) [0x00AA39E4]
+	(No symbol) [0x00ABCB24]
+	(No symbol) [0x00AA3736]
+	(No symbol) [0x00A77541]
+	(No symbol) [0x00A780BD]
+	GetHandleVerifier [0x00E63A93+2876371]
+	GetHandleVerifier [0x00EB7F5D+3221661]
+	GetHandleVerifier [0x00C2D634+556916]
+	GetHandleVerifier [0x00C3474C+585868]
+	(No symbol) [0x00B4CE04]
+	(No symbol) [0x00B49818]
+	(No symbol) [0x00B499B7]
+	(No symbol) [0x00B3BF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:52:21,829 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:52:51,412 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:53:22,348 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:53:55,314 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%91%C3%B9i-nam-th%E1%BB%83-thao-qu%E1%BA%A7n-short-h%C3%A0ng-xu%E1%BA%A5t-cao-c%E1%BA%A5p-phong-c%C3%A1ch-tr%E1%BA%BB-trung-n%C4%83ng-%C4%91%E1%BB%99ng-T80-i.724295836.17230021278?sp_atk=d73397a2-91f3-4194-b219-16fcec1dff5a&xptdk=d73397a2-91f3-4194-b219-16fcec1dff5a: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:54:39,360 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 12:55:10,222 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%91%C3%B9i-nam-th%E1%BB%83-thao-qu%E1%BA%A7n-short-h%C3%A0ng-xu%E1%BA%A5t-cao-c%E1%BA%A5p-phong-c%C3%A1ch-tr%E1%BA%BB-trung-n%C4%83ng-%C4%91%E1%BB%99ng-T80-i.724295836.17230021278?sp_atk=d73397a2-91f3-4194-b219-16fcec1dff5a&xptdk=d73397a2-91f3-4194-b219-16fcec1dff5a: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:55:28,909 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80
+2024-07-11 12:56:02,261 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%90%C3%B9i-Th%E1%BB%83-Thao-Nam-PoLy-C%E1%BB%B1c-%C4%90%E1%BA%B9p-Store-NA-i.786266956.15686513016?sp_atk=ae81d5c0-17c2-4bce-b4f3-7d7663f1bb70&xptdk=ae81d5c0-17c2-4bce-b4f3-7d7663f1bb70: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:56:21,219 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA
+2024-07-11 12:57:00,856 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-short-nam-KAKI-GI%C3%93-c%E1%BA%A1p-khuy-pha-c%C3%BAc-tr%E1%BA%BB-trung-%C4%91%C3%B9i-ng%E1%BA%AFn-premium-x%E1%BB%8Bn-Q46--i.615948649.25069101116?sp_atk=13e9c254-1896-4fe2-b82f-786b5b8c0640&xptdk=13e9c254-1896-4fe2-b82f-786b5b8c0640: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:57:20,190 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp khuy pha cúc trẻ trung đùi ngắn premium xịn [Q46]
+2024-07-11 12:57:57,175 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-N%E1%BB%AF-Thun-Cotton-AmericanStyle-%C4%90%E1%BA%ADp-Tan-N%C3%B3ng-B%E1%BB%A9c-M%E1%BA%B7c-Nh%C3%A0-M%E1%BA%B7c-L%C3%A0m-Qu%E1%BA%A7n-Ng%E1%BB%A7-C%C3%B3-Bigsize-i.227355467.6820286695?sp_atk=acc344df-c813-4e02-9fe7-53cef67fd043&xptdk=acc344df-c813-4e02-9fe7-53cef67fd043: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 12:58:30,988 - root - ERROR - Exception when scraping https://shopee.vn/Qu%E1%BA%A7n-%C4%90%C3%B9i-Nam-N%E1%BB%AF-Thun-Cotton-AmericanStyle-%C4%90%E1%BA%ADp-Tan-N%C3%B3ng-B%E1%BB%A9c-M%E1%BA%B7c-Nh%C3%A0-M%E1%BA%B7c-L%C3%A0m-Qu%E1%BA%A7n-Ng%E1%BB%A7-C%C3%B3-Bigsize-i.227355467.6820286695?sp_atk=acc344df-c813-4e02-9fe7-53cef67fd043&xptdk=acc344df-c813-4e02-9fe7-53cef67fd043: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 12:58:57,908 - root - INFO - Scraped Quần Đùi Nam Nữ Thun Cotton AmericanStyle Đập Tan Nóng Bức Mặc Nhà, Mặc Làm Quần Ngủ Có Bigsize
+2024-07-11 12:59:34,705 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-s%C6%A1-mi-nam-ng%E1%BA%AFn-tay-ch%E1%BA%A5t-v%E1%BA%A3i-l%E1%BB%A5a-Th%C3%A1i-cotton-m%E1%BB%81m-m%E1%BB%8Bn-tho%C3%A1ng-m%C3%A1t-ki%E1%BB%83u-d%C3%A1ng-trung-ni%C3%AAn-TN-L%E1%BB%A4A-MVP-i.228831423.23317990155?sp_atk=fc63264e-6a14-486c-a169-c95822e0cb22&xptdk=fc63264e-6a14-486c-a169-c95822e0cb22: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 13:00:07,818 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-s%C6%A1-mi-nam-ng%E1%BA%AFn-tay-ch%E1%BA%A5t-v%E1%BA%A3i-l%E1%BB%A5a-Th%C3%A1i-cotton-m%E1%BB%81m-m%E1%BB%8Bn-tho%C3%A1ng-m%C3%A1t-ki%E1%BB%83u-d%C3%A1ng-trung-ni%C3%AAn-TN-L%E1%BB%A4A-MVP-i.228831423.23317990155?sp_atk=fc63264e-6a14-486c-a169-c95822e0cb22&xptdk=fc63264e-6a14-486c-a169-c95822e0cb22: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 13:00:35,107 - root - INFO - Scraped Áo sơ mi nam ngắn tay ,chất vải lụa Thái cotton mềm mịn thoáng mát kiểu dáng trung niên TN LỤA MVP
+2024-07-11 13:01:01,889 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Phong Cách Hàn Quôc Mặc Thoáng Mát
+2024-07-11 13:01:24,642 - root - INFO - Scraped Quần Short Nilen Nam ( Hàng Xịn, Lên Form Cực Đẹp ) Store NA
+2024-07-11 13:01:51,200 - root - INFO - Scraped Quần Short đùi Bò Jean Nam Avocado Trắng Đen Retro Wash Co Giãn form TRÊN GỐI
+2024-07-11 13:02:15,040 - root - INFO - Scraped [TAS002] QUẦN SHORT TÂY ÂU NAM HÀNG ĐẸP CO GIÃN NHẸ - KHÔNG NHĂN - KHÔNG XÙ - KHÔNG PHAI MÀU
+2024-07-11 13:02:41,784 - root - INFO - Scraped Quần lót nam thể thao cao cấp chất thun lạnh đẹp quần sịp nam đùi mềm mại co dãn
+2024-07-11 13:03:03,586 - root - INFO - Scraped Quần Short Unisex nam nữ trơn quần đùi nam chất vải xốp tổ ong mát mẻ thoải mái
+2024-07-11 13:03:29,313 - root - INFO - Scraped Quần Short Nam 6 Màu Trẻ Trung Chất Liệu Kaki Mềm Mại, Quần Đùi Nam Kiểu Dáng Basic Phong Cách Hàn Quốc VICERO
+2024-07-11 13:04:03,796 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 13:04:25,238 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EB6C7F]
+	(No symbol) [0x00EB88F8]
+	(No symbol) [0x00EB8970]
+	(No symbol) [0x00EEDD91]
+	(No symbol) [0x00F1399C]
+	(No symbol) [0x00EE8C15]
+	(No symbol) [0x00F13C34]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 2/3)
+2024-07-11 13:04:50,880 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Polo-Ph%E1%BB%91i-c%E1%BB%95-SPION-Local-Brand-polo-unisex-nam-n%E1%BB%AF-oversize-KNC-192-i.400003849.20982633992?sp_atk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b&xptdk=bf0a1fcf-6e25-49d9-bf69-921e51766a1b: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="sll2-normal-pdp-main"]/div/div[1]/div/div/section[1]/section[2]/div/div[2]/button[1]/div[1]"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0101C1C3+27395]
+	(No symbol) [0x00FB3DC4]
+	(No symbol) [0x00EB1B7F]
+	(No symbol) [0x00EF2C65]
+	(No symbol) [0x00EF2D3B]
+	(No symbol) [0x00F2EC82]
+	(No symbol) [0x00F139E4]
+	(No symbol) [0x00F2CB24]
+	(No symbol) [0x00F13736]
+	(No symbol) [0x00EE7541]
+	(No symbol) [0x00EE80BD]
+	GetHandleVerifier [0x012D3A93+2876371]
+	GetHandleVerifier [0x01327F5D+3221661]
+	GetHandleVerifier [0x0109D634+556916]
+	GetHandleVerifier [0x010A474C+585868]
+	(No symbol) [0x00FBCE04]
+	(No symbol) [0x00FB9818]
+	(No symbol) [0x00FB99B7]
+	(No symbol) [0x00FABF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 3/3)
+2024-07-11 13:09:51,815 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 13:10:24,480 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 13:10:40,029 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Windows\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-07-11 13:10:51,613 - root - INFO - Scraped Quần đùi nam thể thao quần short hàng xuất cao cấp phong cách trẻ trung năng động T80
+2024-07-11 13:11:03,151 - root - INFO - Scraped Quần Đùi Thể Thao Nam PoLy Cực Đẹp Store NA
+2024-07-11 13:11:15,313 - root - INFO - Scraped Quần short nam KAKI GIÓ cạp khuy pha cúc trẻ trung đùi ngắn premium xịn [Q46]
+2024-07-11 13:11:28,949 - root - INFO - Scraped Quần Đùi Nam Nữ Thun Cotton AmericanStyle Đập Tan Nóng Bức Mặc Nhà, Mặc Làm Quần Ngủ Có Bigsize
+2024-07-11 13:11:42,759 - root - INFO - Scraped Áo sơ mi nam ngắn tay ,chất vải lụa Thái cotton mềm mịn thoáng mát kiểu dáng trung niên TN LỤA MVP
+2024-07-11 13:11:57,689 - root - INFO - Scraped Quần Short Unisex Basic Thể Thao Phong Cách Hàn Quôc Mặc Thoáng Mát
+2024-07-11 13:12:11,371 - root - INFO - Scraped Quần Short Nilen Nam ( Hàng Xịn, Lên Form Cực Đẹp ) Store NA
+2024-07-11 13:12:25,880 - root - INFO - Scraped Quần Short đùi Bò Jean Nam Avocado Trắng Đen Retro Wash Co Giãn form TRÊN GỐI
+2024-07-11 13:13:01,185 - root - ERROR - Exception when scraping https://shopee.vn/-TAS002-QU%E1%BA%A6N-SHORT-T%C3%82Y-%C3%82U-NAM-H%C3%80NG-%C4%90%E1%BA%B8P-CO-GI%C3%83N-NH%E1%BA%B8-KH%C3%94NG-NH%C4%82N-KH%C3%94NG-X%C3%99-KH%C3%94NG-PHAI-M%C3%80U-i.54308152.23268885781?sp_atk=eeac2d01-efc1-43ea-a6ad-a3342bda3fed&xptdk=eeac2d01-efc1-43ea-a6ad-a3342bda3fed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 13:13:13,169 - root - INFO - Scraped [TAS002] QUẦN SHORT TÂY ÂU NAM HÀNG ĐẸP CO GIÃN NHẸ - KHÔNG NHĂN - KHÔNG XÙ - KHÔNG PHAI MÀU
+2024-07-11 13:13:27,348 - root - INFO - Scraped Quần lót nam thể thao cao cấp chất thun lạnh đẹp quần sịp nam đùi mềm mại co dãn
+2024-07-11 13:13:41,823 - root - INFO - Scraped Quần Short Unisex nam nữ trơn quần đùi nam chất vải xốp tổ ong mát mẻ thoải mái
+2024-07-11 13:13:54,064 - root - INFO - Scraped Quần Short Nam 6 Màu Trẻ Trung Chất Liệu Kaki Mềm Mại, Quần Đùi Nam Kiểu Dáng Basic Phong Cách Hàn Quốc VICERO
+2024-07-11 13:14:09,841 - root - INFO - Scraped Áo Polo Phối cổ SPION Local Brand polo unisex nam nữ oversize - KNC 192
+2024-07-11 13:14:42,857 - root - ERROR - Exception when scraping https://shopee.vn/%C3%81o-Thun-Soccer-Ph%E1%BB%91i-Local-Brand-By-UniSpace-Our-Ground-%C3%81o-Ph%C3%B4ng-Unisex-Pao_STORE-i.1187191071.25614188879?sp_atk=4c7a0726-695d-4518-835b-54d23f3f6925&xptdk=4c7a0726-695d-4518-835b-54d23f3f6925: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0035C1C3+27395]
+	(No symbol) [0x002F3DC4]
+	(No symbol) [0x001F1B7F]
+	(No symbol) [0x00232C65]
+	(No symbol) [0x00232D3B]
+	(No symbol) [0x0026EC82]
+	(No symbol) [0x002539E4]
+	(No symbol) [0x0026CB24]
+	(No symbol) [0x00253736]
+	(No symbol) [0x00227541]
+	(No symbol) [0x002280BD]
+	GetHandleVerifier [0x00613A93+2876371]
+	GetHandleVerifier [0x00667F5D+3221661]
+	GetHandleVerifier [0x003DD634+556916]
+	GetHandleVerifier [0x003E474C+585868]
+	(No symbol) [0x002FCE04]
+	(No symbol) [0x002F9818]
+	(No symbol) [0x002F99B7]
+	(No symbol) [0x002EBF0E]
+	BaseThreadInitThunk [0x755A7BA9+25]
+	RtlInitializeExceptionChain [0x7752C10B+107]
+	RtlClearBits [0x7752C08F+191]
+ (Retry 1/3)
+2024-07-11 13:14:56,575 - root - INFO - Scraped Áo Thun Soccer Phối Local Brand By UniSpace Our Ground Áo Phông Unisex Pao_STORE
+2024-07-11 13:15:11,217 - root - INFO - Scraped ⚡️ Giá Sốc ⚡️Thắt lưng nam da cao cấp khóa kim loại tự động không gỉ - Cam kết 1 đổi 1 bảo hành 12 tháng
+2024-07-11 13:15:26,323 - root - INFO - Scraped Quần Short unisex nam nữ chất cotton cao cấp, phong cách thể thao, mặc thoáng mát, co dãn 4 chiều, quần đùi nam nữ, basi
+2024-07-11 13:15:42,451 - root - INFO - Scraped Thắt Lưng Da Nam🔥Giá Sốc🔥Khóa Tự Động Cao Cấp Dây Nịt Nam Mặt Xoay Chính Hãng , Phong Cách Hàn Quốc
+2024-07-11 13:15:58,173 - root - INFO - Scraped Áo thun nam nữ tay lỡ Angel Devil, áo phông cotton from rộng freesize unisex AD-Trend
+2024-07-11 13:16:13,254 - root - INFO - Scraped Áo thun nam nữ unisex tay lỡ A.R.0.1, áo phông cotton form rộng oversize streetwear Trend 2022
+2024-07-11 13:16:27,649 - root - INFO - Scraped Dây Nịt Da Bò Nguyên Miếng Vicezo Cao Cấp Bảo Hành Lỗi 1 Đổi 1, Thắt Lưng Nam Da Bò Nguyên Tấm
+2024-07-11 13:16:43,738 - root - INFO - Scraped Áo thun nam, áo phông nam tay ngắn cổ tròn chất cotton dày dặn thoáng mát ATN010 - An Cường Fashion

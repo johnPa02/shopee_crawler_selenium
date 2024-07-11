@@ -25,8 +25,7 @@ def save_to_file(data, filename):
             json.dump(data, f, indent=4)
     elif filename.endswith(".csv"):
         data = pd.DataFrame(data)
-        with open(filename, 'w') as f:
-            data.to_csv(f, index=False)
+        data.to_csv(filename, index=False, encoding='utf-8')
 
 
 def read_from_file(filename):
@@ -200,7 +199,7 @@ class ProductCrawler(BaseCrawler):
                         "name": name,
                         "price": price
                     })
-                    logging.info(f"Scraped {name} successfully")
+                    logging.info(f"Scraped {name}")
                     time.sleep(np.random.uniform(2, 5))
                     break
                 except (TimeoutException, NoSuchElementException, StaleElementReferenceException) as e:
