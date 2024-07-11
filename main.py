@@ -12,7 +12,7 @@ def main(args):
         # product_crawler.find_product_urls(CATEGORY_URL)
         # save_to_file(product_crawler.product_urls, "data/product_urls.json")
         # print(f"Saved {len(product_crawler.product_urls)} product urls to product_urls.json")
-        product_crawler.get_product_details("data/product_urls_mini.json")
+        product_crawler.get_product_details("data/product_urls.json")
     elif args.comment:
         pass
 
